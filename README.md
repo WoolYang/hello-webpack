@@ -1,2 +1,3 @@
-# webpack-research
+# webpack-study
 扒一扒webpack
+plugin,loader,原理...
